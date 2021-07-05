@@ -5,7 +5,7 @@ import Home from "./application"
 
 const App = () => {
   return (
-    <      Provider 
+    <    Provider 
 store={store}>
       <Home />
 
