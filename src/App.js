@@ -10,6 +10,6 @@ store={store}>
       <Home />
 
     </Provider   >
-  );};
+  );  };
 
 export default App;
