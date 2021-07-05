@@ -1,0 +1,6 @@
+-   repo: https://github.com/DoQuocCuong83/performance-table
+    rev: ''  # Use the sha / tag you want to point at
+    hooks:
+    -   id: prettier
+        additional_dependencies:
+        -   prettier@2.3.2
